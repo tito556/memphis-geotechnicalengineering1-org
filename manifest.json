@@ -1,0 +1,20 @@
+{
+  "name": "Geotechnical Engineering1",
+  "short_name": "Geotechnical",
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#7C2D12",
+  "background_color": "#FFFFFF",
+  "icons": [
+    {
+      "src": "/img/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ],
+  "lang": "en",
+  "orientation": "portrait-primary",
+  "scope": "/",
+  "description": "Professional geotechnical services in Memphis, USA. Soil studies, testing and technical consulting.",
+  "id": "/memphis-4510"
+}
